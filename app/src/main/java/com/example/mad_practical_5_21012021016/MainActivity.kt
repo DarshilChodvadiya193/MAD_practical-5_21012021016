@@ -1,4 +1,4 @@
-    package com.example.mad_practical_5_21012021016
+package com.example.mad_practical_5_21012021016
 
 import android.content.Intent
 import android.net.Uri
